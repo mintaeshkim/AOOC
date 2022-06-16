@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DispatchInfo version="1.0">
+	<DispatchTable version="1.0">
+		<Table scope="PR">
+			<CFU>https://genuine.adobe.com/server/services/update/v1</CFU>
+			<FetchRules>https://genuine.adobe.com/server/services/rules/v1</FetchRules>
+			<PostRulesData>https://genuine.adobe.com/server/services/check/v1</PostRulesData>
+			<NotifyInstall>https://genuine.adobe.com/server/services/installation/v1</NotifyInstall>
+			<ETSEndPoint>https://na1e.services.adobe.com/hsmessaging/rest</ETSEndPoint>
+			<FetchRulesV2>https://genuine.adobe.com/server/services/rules/v2</FetchRulesV2>
+			<InAppEvents>https://genuine.adobe.com/server/services/consequence/appevents/v1</InAppEvents>
+			<MachineEvents>https://genuine.adobe.com/server/services/machineevents/v1</MachineEvents>
+            <ClientConfiguration>https://genuine.adobe.com/server/services/clientconfiguration/v1</ClientConfiguration>
+            <PHEvents>https://genuine.adobe.com/server/services/phevents/v1</PHEvents>
+            <UninstallationStatus>https://genuine.adobe.com/server/services/uninstallationstatus/v1</UninstallationStatus>
+            <NotifAuditEvents>https://genuine.adobe.com/server/services/notifevents/v1</NotifAuditEvents>
+		</Table>
+		<Table scope="GM">
+			<CFU>https://genuine.adobe.com/server/services/update/v1</CFU>
+			<FetchRules>https://genuine.adobe.com/server/services/rules/v1</FetchRules>
+			<PostRulesData>https://genuine.adobe.com/server/services/check/v1</PostRulesData>
+			<NotifyInstall>https://genuine.adobe.com/server/services/installation/v1</NotifyInstall>
+			<ETSEndPoint>https://na1e.services.adobe.com/hsmessaging/rest</ETSEndPoint>
+			<FetchRulesV2>https://genuine.adobe.com/server/services/rules/v2</FetchRulesV2>
+			<InAppEvents>https://genuine.adobe.com/server/services/consequence/appevents/v1</InAppEvents>
+			<MachineEvents>https://genuine.adobe.com/server/services/machineevents/v1</MachineEvents>
+            <ClientConfiguration>https://genuine.adobe.com/server/services/clientconfiguration/v1</ClientConfiguration>
+            <PHEvents>https://genuine.adobe.com/server/services/phevents/v1</PHEvents>
+            <UninstallationStatus>https://genuine.adobe.com/server/services/uninstallationstatus/v1</UninstallationStatus>
+            <NotifAuditEvents>https://genuine.adobe.com/server/services/notifevents/v1</NotifAuditEvents>
+		</Table>
+	</DispatchTable>
+	<DTSignature>nGdb3H+BsH9Y927Vz/FpAs/WvV1qIrOHnwIrzdzWrpt/oEhlX8aiFsav3/8GLt/eyKH3h4upp818T144C81USRoBRzof388UgQUM1HDLk0f+3rYo6CbkYEyNIYe054jSNd+AWQfxQqvYLi3vegTla8AqZVtNgLV/LxB/xjXAloxGnKczQ2OfpduGpXmVGJRwzF8JManHTmXlgr6+9xd7V8z0goVcHi3KtrjFyNqVP2HhLsuZ5bVJKl/CbFuzgh6RHFr8w4AYFjtDHEbNYO3g06oh4D0nhK+S95Ie6LpXRJRHfUvSjr8ST2eIJ3DXKIbexsrOE5Dm73L23G7rCa/9gQ==</DTSignature>
+</DispatchInfo>

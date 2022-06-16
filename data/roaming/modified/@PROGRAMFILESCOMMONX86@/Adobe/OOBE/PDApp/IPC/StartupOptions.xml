@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE vcconfig PUBLIC "-//Adobe Systems Eng. GmbH//DTD Version Cue Config V 1.0//EN"
+                          "">
+
+<vcconfig version="1.0">
+    <vcmap>
+        <vcentry key="keepAliveTime">
+			<vcint>5</vcint>
+		</vcentry>
+
+		<vcentry key="systemProperties">
+			<vcmap>
+				<vcentry key="loglevel">
+					<vcint>1</vcint>
+				</vcentry>
+			</vcmap>
+		</vcentry>
+	
+        <vcentry key="platform">
+            <vcmap>
+		        <vcentry key="win32">
+		            <vcmap>
+				        <vcentry key="logDir">
+		        			<vcstring>[TEMP]</vcstring>
+				        </vcentry>
+		            </vcmap>
+		        </vcentry>
+
+		        <vcentry key="macosx">
+		            <vcmap>
+				        <vcentry key="logDir">
+		        			<vcstring>~/Library/Logs</vcstring>
+				        </vcentry>
+		            </vcmap>
+		        </vcentry>
+            </vcmap>
+        </vcentry>
+    </vcmap>
+</vcconfig>
