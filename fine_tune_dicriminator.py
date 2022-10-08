@@ -1,5 +1,3 @@
-
-
 from model_fine_tune_discriminator import Fine_Tune_Disc
 
 from opts_fine_tune_discriminator import parse_opts_ft
